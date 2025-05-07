@@ -38,6 +38,6 @@ Research and implementation of advanced kernel methods for graph-structured data
 
 ## Contact Information
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/yourusername]
+- **Email**: [marceau.pailhas@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/marceau-pailhas-ba219422a/]
+- **GitHub**: [github.com/marceauPailhas]
