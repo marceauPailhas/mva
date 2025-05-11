@@ -64,10 +64,3 @@ We explored several preprocessing and modeling approaches:
 - Strategies for handling time series data with missing values
 - The challenge of balancing model complexity with dataset size to avoid overfitting
 
-## Files
-
-- `Benchmark_QRT_en.ipynb`: Benchmark implementation and analysis
-- `Kernel_multivariate_ridge_Regression.ipynb`: Advanced kernel methods implementation
-- `Prepocessing_outliers_&_kernel_Methods.ipynb`: Preprocessing techniques and outlier handling
-- `Equilibre des données.ipynb`: Data balance analysis
-- Various CSV files with model predictions and results
