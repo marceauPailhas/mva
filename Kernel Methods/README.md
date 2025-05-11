@@ -2,17 +2,6 @@
 
 This section of the repository focuses on **Kernel Methods**, a powerful class of algorithms widely used in the field of machine learning. Kernel Methods are particularly effective for non-linear problems, transforming data into higher-dimensional spaces where linear techniques can be applied.
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Key Concepts](#key-concepts)
-3. [Applications](#applications)
-4. [Repository Structure](#repository-structure)
-5. [Dependencies](#dependencies)
-6. [How to Run](#how-to-run)
-7. [References](#references)
-
----
 
 ## Overview
 
