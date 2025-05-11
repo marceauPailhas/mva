@@ -8,7 +8,7 @@ This repository contains assignments and projects for the Machine Learning for T
 - **Assignment 2**: Advanced time series modeling techniques
 - **Assignment 3**: Change point detection and graph signal processing for time series
 - **Mini Project**: Audio source separation project using various techniques (IVA, ICA, MNMF, ILRMA)
-- **Tutorials**: Course tutorial materials
+  
 
 ## Course Overview
 
