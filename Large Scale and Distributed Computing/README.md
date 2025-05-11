@@ -64,4 +64,4 @@ To run the Jupyter notebooks in this repository, you'll need:
 
 ## References
 
-The course materials and assignments are based on current research and established techniques in the field of large-scale and distributed computing. The provided PDFs contain detailed references and citations to relevant literature.
+The course materials and assignments are based on current research and established techniques in the field of large-scale and distributed computing.
