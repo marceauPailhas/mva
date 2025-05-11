@@ -53,7 +53,7 @@ We used Support Vector Machines (SVMs) with our custom kernels for the classific
 
 ## Files
 
-- `Graphe_to_vector.ipynb`: Implementation of graph-to-vector conversion techniques
+- `n_th_order_walk.ipynb`: Implementation of graph-to-vector conversion techniques
 - `kernel.py`: Implementation of various graph kernels
 - `svm.py`: Support Vector Machine implementation with custom kernels
 - Various model files and submission results
