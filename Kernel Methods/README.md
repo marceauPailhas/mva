@@ -13,7 +13,7 @@ Kernel Methods are a set of techniques that leverage the "kernel trick" to impli
 - **Robustness**: Can be applied to a wide variety of data types.
 - **Mathematical Elegance**: Utilize inner product spaces for computations without explicit transformations.
 
----
+
 
 ## Key Concepts
 
@@ -30,7 +30,7 @@ Some of the key concepts covered in this section include:
   - Principal Component Analysis (PCA) in high-dimensional spaces
   - Clustering and Dimensionality Reduction
 
----
+
 
 ## Applications
 
@@ -41,7 +41,7 @@ Kernel Methods are widely used in various domains, including:
 - **Dimensionality Reduction**: Kernel PCA.
 - **Clustering**: Spectral Clustering.
 
----
+
 
 ## Repository Structure
 
@@ -58,7 +58,7 @@ Kernel Methods/
 ├── README.md                        # This file
 ```
 
----
+
 
 ## Dependencies
 
