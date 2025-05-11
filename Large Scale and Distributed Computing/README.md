@@ -14,26 +14,14 @@ This course covers fundamental concepts and advanced techniques in large-scale a
 
 ## Repository Contents
 
-### Course Materials
-
-- `article_LSD.pdf`: Research article on Large Scale and Distributed computing concepts
-- `cours_ECP_DR.pdf`: Course lecture notes on distributed computing
-- `cours_ECP_MM.pdf`: Course lecture notes on mathematical methods for large-scale computing
 
 ### Practical Assignments
 
 - `TP n1.ipynb`: Practical Work 1 - Introduction to distributed computing concepts
 - `TP n°2_MarceauPAILHAS.ipynb`: Practical Work 2 - Implementation of distributed algorithms
-- `TP n°3.ipynb` and `TP 3 Large Scale.ipynb`: Practical Work 3 - Advanced topics in large-scale computing
-- `LSD_TPn3_GORCEIX_PAILHAS.ipynb`: Completed assignment with solutions (by GORCEIX and PAILHAS)
-- `LSD_TPn3_GORCEIX_PAILHAS.html`: HTML export of the completed assignment
+- `LSD_TPn3_GORCEIX_PAILHAS.ipynb`: Completed assignment 3 with solutions (by GORCEIX and PAILHAS)
 
-### Data Files
 
-- `data.txt`: Text data for practical assignments
-- `G.mat`, `H.mat`, `x.mat`: MATLAB data files for matrix operations and optimization problems
-- `florence_TP_LargeScale.jpg`: Image file used in practical assignments
-- `latex_lipschitzconstant.txt`: LaTeX code snippet for Lipschitz constant documentation
 
 ## Key Topics Covered
 
