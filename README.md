@@ -33,11 +33,6 @@ Developed models to predict daily electricity price variations for futures contr
 
 **Key techniques**: Time series analysis, feature engineering, random forest regression, correlation analysis
 
-### [Advanced Kernel Methods for Graph Data](Cours/Kernel%20Methods/Kaggle%20challenge/)
-
-Research and implementation of advanced kernel methods for graph-structured data, focusing on efficient graph representation and similarity computation for machine learning tasks.
-
-**Key techniques**: Graph substructure analysis, min-max kernel implementation, SVM optimization
 
 ## Education
 
