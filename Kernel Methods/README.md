@@ -45,9 +45,16 @@ Kernel Methods are widely used in various domains, including:
 
 ## Repository Structure
 
-The `Kernel Methods` directory is organized as follows:
-Kernel Methods/ ├── notebooks/ │ ├── kernel_methods_intro.ipynb # Introduction to Kernel Methods │ ├── svm_kernel.ipynb # SVM with different kernels │ ├── kernel_pca.ipynb # Dimensionality reduction using Kernel PCA ├── data/ │ ├── example_dataset.csv # Example dataset for kernel methods ├── utils/ │ ├── kernel_functions.py # Custom kernel functions implementation ├── README.md # This file
-
+Kernel Methods/
+├── notebooks/
+│   ├── kernel_methods_intro.ipynb   # Introduction to Kernel Methods
+│   ├── svm_kernel.ipynb             # SVM with different kernels
+│   ├── kernel_pca.ipynb             # Dimensionality reduction using Kernel PCA
+├── data/
+│   ├── example_dataset.csv          # Example dataset for kernel methods
+├── utils/
+│   ├── kernel_functions.py          # Custom kernel functions implementation
+├── README.md                        # This file
 
 ---
 
@@ -62,4 +69,3 @@ To run the notebooks and scripts in this section, make sure you have the followi
 - scikit-learn
 - Matplotlib
 - pandas
-
