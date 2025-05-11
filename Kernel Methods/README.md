@@ -45,6 +45,7 @@ Kernel Methods are widely used in various domains, including:
 
 ## Repository Structure
 
+```plaintext
 Kernel Methods/
 ├── notebooks/
 │   ├── kernel_methods_intro.ipynb   # Introduction to Kernel Methods
@@ -55,6 +56,7 @@ Kernel Methods/
 ├── utils/
 │   ├── kernel_functions.py          # Custom kernel functions implementation
 ├── README.md                        # This file
+```
 
 ---
 
