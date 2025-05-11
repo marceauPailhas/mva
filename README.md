@@ -8,11 +8,18 @@ I am a data scientist with expertise in statistical modeling and machine learnin
 
 - **Programming Languages**: Python
 - **Data Science & ML**: Statistical modeling, scikit-learn, kernel methods, SVM, random forests
+- **Reinforcement Learning**: Deep Q-Learning (DQN), Deep Recurrent Q-Networks (DRQN), policy gradient methods
 - **Data Visualization**: Matplotlib, Seaborn
 - **Mathematical Foundations**: Linear algebra, probability theory, statistics
-- **Specialized Areas**: Graph-based machine learning, time series analysis, feature engineering
+- **Specialized Areas**: Graph-based machine learning, time series analysis, feature engineering, reinforcement learning
 
 ## Featured Projects
+
+### [Flappy Bird - Deep Reinforcement Learning](Deep%20Reinforcement%20Learning/final%20project/)
+
+Developed and implemented various reinforcement learning algorithms to train an agent to play Flappy Bird. Compared different approaches including heuristic rules, Deep Q-Learning (DQN), Deep Recurrent Q-Networks (DRQN), and hybrid methods combining rules with learning-based approaches.
+
+**Key techniques**: Deep Q-Learning, LSTM networks, heuristic rules, hyperparameter optimization
 
 ### [Graph Classification with Kernel Methods](Kaggle_Challenge_Marceau_PAILHAS_Antoine_GORCEIX/)
 
