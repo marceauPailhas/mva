@@ -84,7 +84,6 @@ A grid search was conducted to find optimal hyperparameters for the DQN approach
 ## Files in this Project
 
 - `[MVA_2023]_Project_part_2_flappy_bird.ipynb`: Jupyter notebook containing the implementation and experiments
-- `DeepRL_Project2.pdf`: Project report with detailed methodology and results
 - `perfomances`: Results of the hyperparameter grid search
 
 ## Conclusion
